@@ -76,6 +76,7 @@ maple open api 를 활용한 사이트 입니다.
 - grafana
 - pinpoint
 
+![grafana](./images/grafana.jpg)
 
 <br>
 <br>
