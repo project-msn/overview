@@ -76,12 +76,14 @@ maple open api 를 활용한 사이트 입니다.
 - grafana
 - pinpoint
 
-![grafana](./images/grafana.jpg)
+![grafana1](https://github.com/project-msn/overview/assets/60679453/48a3dfe8-955d-4dbb-8c9d-b2d827d0e33a)
+![grafana2](https://github.com/project-msn/overview/assets/60679453/8316390e-b2ef-4025-9efe-6c1bdac7fb94)
+<img width="582" alt="스크린샷 2024-01-03 오후 4 34 26" src="https://github.com/project-msn/overview/assets/60679453/2661963e-10c8-4e59-bb73-f3874a9cec28">
 
 <br>
 <br>
 
 # 기술적 목표
 
-> 현재 기준1억 2천만건에 매일 약40만건씩 증가하는 데이터를 한정적인 (2코어 4기가) 리소스에서
+> 현재 기준1억 4천만건에 매일 약40만건씩 증가하는 데이터를 한정적인 (2코어 4기가) 리소스에서
 > 안정적으로 저장하고 데이터를 서빙하는것을 목표로 하고 있습니다.
